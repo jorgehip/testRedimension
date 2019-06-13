@@ -1,0 +1,7 @@
+<Alloy>
+	<Window  id="tabbedPanelWindow" >
+        <TableView id="tableViewTP" >
+            <SearchBar id="searchBar" backgroundColor='#fff' color='#000' />
+        </TableView>    
+    </Window>
+</Alloy>

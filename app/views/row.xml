@@ -1,0 +1,9 @@
+<Alloy>
+    <TableViewRow id="rowTabbedPanel" layout="horizontal" height='Ti.UI.SIZE'>
+       <View backgroundColor='green' left="0" right="0" top="0" bottom="0" height='Ti.UI.SIZE' layout="horizontal">
+        <Label id='narrativeTxt' left='15dp' right='140dp' height='40' backgroundColor='red' ></Label>
+           <Button left="13dp" right="13dp" width="26dp" height"26dp" backgroundColor="gray" backgroundImage="/images/black_overview.png"></Button>
+           <Button left='13dp' right="0" width="26dp" height"26dp" backgroundColor='white' backgroundImage="/images/black_camera.png"></Button>    
+       </View>      
+    </TableViewRow>
+</Alloy>
